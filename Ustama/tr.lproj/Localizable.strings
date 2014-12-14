@@ -1,0 +1,47 @@
+/* 
+  Localizable.strings
+  Ustama
+
+  Created by Ali Germiyanoglu on 13/12/14.
+  Copyright (c) 2014 Ali Germiyanoglu. All rights reserved.
+*/
+
+"BUTTON_TAKE_PHOTO"					= "FOTOĞRAF ÇEK";
+"BUTTON_TITLE_CAMERA"				= "FOTOĞRAF VEYA VİDEO ÇEK";
+"BUTTON_TITLE_PICK_PHOTO"			= "VAR OLAN FOTOĞRAFI SEÇ";
+"BUTTON_TITLE_PICK_VIDEO"			= "VAR OLAN VİDEOYU SEÇ";
+
+
+"NEW_USER_VC_NAME_ERROR"					= "Lütfen adınızı giriniz";
+"NEW_USER_VC_SURNAME_ERROR"					= "Lütfen soyadınızı giriniz";
+"NEW_USER_VC_MAIL_ERROR"					= "Lütfen e-posta adresinizi giriniz";
+"NEW_USER_VC_ADDRESS_ERROR"					= "Lütfen adresinizi giriniz";
+"NEW_USER_VC_CITY_ERROR"					= "Lütfen şehir seçiniz";
+"NEW_USER_VC_PHONE_ERROR"					= "Lütfen telefon numaranızı giriniz";
+"NEW_USER_VC_AGE"                           = "Lütfen yaşınızı giriniz";
+"NEW_USER_VC_PROFESSION"                    = "Lütfen mesleğinizi giriniz";
+"NEW_USER_VC_STORY"                         = "Lütfen hikayenizi giriniz";
+"EMAIL_FORMAT_CHECK"                        = "Lütfen e-posta formatını kontrol ediniz";
+
+"MAALERTVIEW_WARNING_HEADER"				= "UYARI";
+"PROFILE_EDIT_VC_REMOVE_PHOTO"		= "FOTOĞRAFI KALDIR";
+
+"ACCEPT_BUTTON_TITLE"						= "TAMAM";
+"BUTTON_TITLE_CANCEL"				= "İPTAL";
+
+
+"NEW_USER_VC_NAME_ERROR"					= "Lütfen adınızı giriniz";
+"NEW_USER_VC_SURNAME_ERROR"					= "Lütfen soyadınızı giriniz";
+"NEW_USER_VC_MAIL_ERROR"					= "Lütfen e-posta adresinizi giriniz";
+"NEW_USER_VC_PASSWORD_ERROR"				= "Lütfen şifrenizi giriniz";
+"NEW_USER_VC_PASSWORDCHECK_ERROR"			= "Lütfen e-posta şifre onayını giriniz";
+"NEW_USER_VC_CITY_ERROR"					= "Lütfen şehir seçiniz";
+"NEW_USER_VC_PHONE_ERROR"					= "Lütfen telefon numaranızı giriniz";
+"NEW_USER_USER_ALREADY_EXIST_ERROR"			= "Böyle bir kullanıcı zaten var";
+"NEW_USER_CHECK_INPUT_ERROR"				= "Lütfen bilgilerinizin doğruluğunu kontrol ediniz";
+
+
+"NEW_USER_VC_TERMS_OF_USE_TITLE"= "KULLANIM KOŞULLARI";
+"NEW_USER_VC_TERMOFUSE"			= "Kullanım koşullarını okudum, kabul ediyorum.";
+
+"MAALERTVIEW_NOINTERNET_MISSING_INPUT" = "Lütfen eksik bilgileri doldurunuz";
